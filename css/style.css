@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.first-section {
+    background-color: white;
+}
